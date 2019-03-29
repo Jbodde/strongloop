@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongodb": {
+    "host": "iut8k.azure.mongodb.net",
+    "port": 27017,
+    "url": "mongodb+srv://test:Amsterdam-015@testcluster-iut8k.azure.mongodb.net/test?retryWrites=true",
+    "database": "databasemongo",
+    "password": "Amsterdam-015",
+    "name": "mongodb",
+    "user": "test",
+    "connector": "mongodb"
+  }
+}
