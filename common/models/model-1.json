@@ -6,11 +6,11 @@
     "validateUpsert": true
   },
   "properties": {
-    "naam": {
+    "vnaam": {
       "type": "string",
       "required": true
     },
-    "nummer": {
+    "nummertje": {
       "type": "number"
     },
     "date": {
